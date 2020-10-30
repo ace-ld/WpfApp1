@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="Calc" Height="450" Width="800">
-    <Grid x:Name="LayoutRoot" Background="WhiteSmoke">
+    <Grid x:Name="LayoutRoot" Background="White">
         <Grid.RowDefinitions>
             <RowDefinition />
             <RowDefinition />
